@@ -28,6 +28,8 @@ jobs:
 
     - name: Copy resulting JSON files from container to host
       run: |
+        docker ps
+        docker start sofa_scan_container
         docker exec sofa_scan_container ls -la /app/v1/
         docker exec sofa_scan_container ls -la /app/
         docker cp sofa_scan_container:/app/v1/timestamp.json v1/. || echo "Failed to copy timestamp.json"
