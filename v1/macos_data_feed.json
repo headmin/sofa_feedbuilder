@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "672eb0402bfd83d13fe14d463e7854bf81d73da72a64c9fec10eade24e58ff1f",
+    "UpdateHash": "7597019d07c1c3db4ffb52d712ae333591ba632ea52a67804e9d800edd1021fd",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -7,7 +7,7 @@
                 "ProductVersion": "14.5",
                 "Build": "23F79",
                 "ReleaseDate": "2024-05-13T00:00:00Z",
-                "ExpirationDate": "2024-08-20T00:00:00Z",
+                "ExpirationDate": "2024-08-26T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -1007,7 +1007,7 @@
                 "ProductVersion": "13.6.7",
                 "Build": "22G720",
                 "ReleaseDate": "2024-05-13T00:00:00Z",
-                "ExpirationDate": "2024-08-20T00:00:00Z",
+                "ExpirationDate": "2024-08-26T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -2372,7 +2372,7 @@
                 "ProductVersion": "12.7.5",
                 "Build": "21H1222",
                 "ReleaseDate": "2024-05-13T00:00:00Z",
-                "ExpirationDate": "2024-08-20T00:00:00Z",
+                "ExpirationDate": "2024-08-26T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -3802,13 +3802,13 @@
         }
     ],
     "XProtectPayloads": {
-        "com.apple.XProtectFramework.XProtect": "133",
+        "com.apple.XProtectFramework.XProtect": "135",
         "com.apple.XprotectFramework.PluginService": "74",
-        "ReleaseDate": "2024-05-02T02:25:12Z"
+        "ReleaseDate": "2024-05-28T17:04:40Z"
     },
     "XProtectPlistConfigData": {
-        "com.apple.XProtect": "2194",
-        "ReleaseDate": "2024-05-15T23:16:30Z"
+        "com.apple.XProtect": "2195",
+        "ReleaseDate": "2024-05-28T17:00:24Z"
     },
     "Models": {
         "Mac15,13": {
