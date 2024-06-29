@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "a614ebf82ac17f108a63359cdabc943f46a6d23f9101995072b97e3af6798c47",
+    "UpdateHash": "72caaf363f68ff0c9abf44065ca7752d14dea16844a9c2b07c0fa7602b7eb36b",
     "OSVersions": [
         {
             "OSVersion": "17",
@@ -1776,7 +1776,20 @@
                     "ProductVersion": "16",
                     "ReleaseDate": "2022-09-12T00:00:00Z",
                     "SecurityInfo": "https://support.apple.com/kb/HT213446",
-                    "SupportedDevices": [],
+                    "SupportedDevices": [
+                        "iPad6,11",
+                        "iPad6,12",
+                        "iPad6,3",
+                        "iPad6,4",
+                        "iPad6,7",
+                        "iPad6,8",
+                        "iPhone10,1",
+                        "iPhone10,2",
+                        "iPhone10,3",
+                        "iPhone10,4",
+                        "iPhone10,5",
+                        "iPhone10,6"
+                    ],
                     "CVEs": {
                         "CVE-2022-42795": false,
                         "CVE-2022-32827": false,
