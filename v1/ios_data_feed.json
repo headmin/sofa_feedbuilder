@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "dbd400d76f69325dfcaf64e55da4389224532f74eed75afcb8d52a000f9fff46",
+    "UpdateHash": "61880de0c50fa60557703934dfbef7b143030d90f828df8e0bc7332747f77619",
     "OSVersions": [
         {
             "OSVersion": "17",
@@ -868,7 +868,20 @@
                     "ProductVersion": "16.7.8",
                     "ReleaseDate": "2024-05-13T00:00:00Z",
                     "SecurityInfo": "https://support.apple.com/kb/HT214100",
-                    "SupportedDevices": [],
+                    "SupportedDevices": [
+                        "iPad6,11",
+                        "iPad6,12",
+                        "iPad6,3",
+                        "iPad6,4",
+                        "iPad6,7",
+                        "iPad6,8",
+                        "iPhone10,1",
+                        "iPhone10,2",
+                        "iPhone10,3",
+                        "iPhone10,4",
+                        "iPhone10,5",
+                        "iPhone10,6"
+                    ],
                     "CVEs": {
                         "CVE-2024-27805": false,
                         "CVE-2024-27817": false,
