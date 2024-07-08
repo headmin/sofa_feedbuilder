@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "fe0dc49c941ba4a3d76e5a9b4b619f77a5f4edbeff59f58ed11b4fe7cee3a200",
+    "UpdateHash": "373f6280d5c49c5cee28f689b6e069a1a0b3edb9c3f424c2875ebd5459c98cc0",
     "OSVersions": [
         {
             "OSVersion": "17",
@@ -998,7 +998,20 @@
                     "ProductVersion": "16.7.7",
                     "ReleaseDate": "2024-03-21T00:00:00Z",
                     "SecurityInfo": "https://support.apple.com/kb/HT214098",
-                    "SupportedDevices": [],
+                    "SupportedDevices": [
+                        "iPad6,11",
+                        "iPad6,12",
+                        "iPad6,3",
+                        "iPad6,4",
+                        "iPad6,7",
+                        "iPad6,8",
+                        "iPhone10,1",
+                        "iPhone10,2",
+                        "iPhone10,3",
+                        "iPhone10,4",
+                        "iPhone10,5",
+                        "iPhone10,6"
+                    ],
                     "CVEs": {
                         "CVE-2024-1580": false
                     },
@@ -1225,20 +1238,7 @@
                     "ProductVersion": "16.7",
                     "ReleaseDate": "2023-09-21T00:00:00Z",
                     "SecurityInfo": "https://support.apple.com/kb/HT213927",
-                    "SupportedDevices": [
-                        "iPad6,11",
-                        "iPad6,12",
-                        "iPad6,3",
-                        "iPad6,4",
-                        "iPad6,7",
-                        "iPad6,8",
-                        "iPhone10,1",
-                        "iPhone10,2",
-                        "iPhone10,3",
-                        "iPhone10,4",
-                        "iPhone10,5",
-                        "iPhone10,6"
-                    ],
+                    "SupportedDevices": [],
                     "CVEs": {
                         "CVE-2023-40448": false,
                         "CVE-2023-38612": false,
@@ -1776,20 +1776,7 @@
                     "ProductVersion": "16",
                     "ReleaseDate": "2022-09-12T00:00:00Z",
                     "SecurityInfo": "https://support.apple.com/kb/HT213446",
-                    "SupportedDevices": [
-                        "iPad6,11",
-                        "iPad6,12",
-                        "iPad6,3",
-                        "iPad6,4",
-                        "iPad6,7",
-                        "iPad6,8",
-                        "iPhone10,1",
-                        "iPhone10,2",
-                        "iPhone10,3",
-                        "iPhone10,4",
-                        "iPhone10,5",
-                        "iPhone10,6"
-                    ],
+                    "SupportedDevices": [],
                     "CVEs": {
                         "CVE-2022-42795": false,
                         "CVE-2022-32827": false,
