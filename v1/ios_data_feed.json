@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "6141a4052f35cd0838fc5f8f3e9bac90a4618d1da7de83e3c6c3a9e03d87a5db",
+    "UpdateHash": "aee834534fdd0acbbe0d58a860679413a5951317ae7c456eeab3aa1a4235a7cb",
     "OSVersions": [
         {
             "OSVersion": "16",
@@ -77,20 +77,7 @@
                     "ProductVersion": "16.7.7",
                     "ReleaseDate": "2024-03-21T00:00:00Z",
                     "SecurityInfo": "https://support.apple.com/kb/HT214098",
-                    "SupportedDevices": [
-                        "iPad6,11",
-                        "iPad6,12",
-                        "iPad6,3",
-                        "iPad6,4",
-                        "iPad6,7",
-                        "iPad6,8",
-                        "iPhone10,1",
-                        "iPhone10,2",
-                        "iPhone10,3",
-                        "iPhone10,4",
-                        "iPhone10,5",
-                        "iPhone10,6"
-                    ],
+                    "SupportedDevices": [],
                     "CVEs": {
                         "CVE-2024-1580": false
                     },
