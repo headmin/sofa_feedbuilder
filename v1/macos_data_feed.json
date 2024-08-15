@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "4a162d886e6f598f8feaef23be20cf85443bd5011067b25e24574bd8b07276ec",
+    "UpdateHash": "e14d509d0191df74f0de15fd78992b584e07b43872310df4271cf484cecac8f6",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -4764,13 +4764,6 @@
             },
             {
                 "title": "macOS Sonoma",
-                "version": "14.5",
-                "build": "23F79",
-                "apple_slug": "062-01946",
-                "url": "https://swcdn.apple.com/content/downloads/32/06/062-01946-A_0PEP7JHIWA/1pfs4xh22555dj51fkep7w06s4eiezh21p/InstallAssistant.pkg"
-            },
-            {
-                "title": "macOS Sonoma",
                 "version": "14.4.1",
                 "build": "23E224",
                 "apple_slug": "052-77516",
@@ -4792,13 +4785,6 @@
             },
             {
                 "title": "macOS Ventura",
-                "version": "13.6.7",
-                "build": "22G720",
-                "apple_slug": "052-96247",
-                "url": "https://swcdn.apple.com/content/downloads/46/31/052-96247-A_MLN9N00Y8W/dmml3up52hrsb01krjtczmdhexiruv1b5m/InstallAssistant.pkg"
-            },
-            {
-                "title": "macOS Ventura",
                 "version": "13.6.6",
                 "build": "22G630",
                 "apple_slug": "052-64249",
@@ -4810,13 +4796,6 @@
                 "build": "21H1320",
                 "apple_slug": "062-40406",
                 "url": "https://swcdn.apple.com/content/downloads/34/21/062-40406-A_GZQ27OUQER/ggclib72ow1omcvfexvp84bc9x5ei5tyqu/InstallAssistant.pkg"
-            },
-            {
-                "title": "macOS Monterey",
-                "version": "12.7.5",
-                "build": "21H1222",
-                "apple_slug": "052-96238",
-                "url": "https://swcdn.apple.com/content/downloads/02/18/052-96238-A_V534Q7DYXO/lj721dkb4wvu0l3ucuhqfjk7i5uwq1s8tz/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Monterey",
