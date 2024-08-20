@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "541e6fac43ced7e843c8a49cdba27e46d77e35829e5a246beda8516a9bb98818",
+    "UpdateHash": "94f50e7751adb23fbf701d5cf8842997120a988aa1f9ecebc6b874cc06743615",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -3894,9 +3894,9 @@
         }
     ],
     "XProtectPayloads": {
-        "com.apple.XProtectFramework.XProtect": "141",
+        "com.apple.XProtectFramework.XProtect": "142",
         "com.apple.XprotectFramework.PluginService": "74",
-        "ReleaseDate": "2024-08-19T18:04:50Z"
+        "ReleaseDate": "2024-08-20T17:08:31Z"
     },
     "XProtectPlistConfigData": {
         "com.apple.XProtect": "5271",
