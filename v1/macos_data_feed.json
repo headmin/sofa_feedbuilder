@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "0197a40faa3670142195b40920930efbaf4b0390b3466c30093b2f363a71d07c",
+    "UpdateHash": "d4aeac4944b0c54295fda621313caf345a2e81c96c3dfe6f5308635cfc64c604",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -3899,8 +3899,8 @@
         "ReleaseDate": "2024-08-20T17:08:31Z"
     },
     "XProtectPlistConfigData": {
-        "com.apple.XProtect": "5271",
-        "ReleaseDate": "2024-08-06T19:48:03Z"
+        "com.apple.XProtect": "5272",
+        "ReleaseDate": "2024-08-28T17:03:35Z"
     },
     "Models": {
         "Mac15,13": {
